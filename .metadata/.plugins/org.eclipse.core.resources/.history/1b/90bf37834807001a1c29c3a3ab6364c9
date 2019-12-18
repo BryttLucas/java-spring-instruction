@@ -1,0 +1,5 @@
+package com.stuffy.db;
+
+public interface StuffyRepsorty {
+
+}
